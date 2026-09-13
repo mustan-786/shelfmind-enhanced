@@ -124,7 +124,7 @@ st.markdown("""
 
 import pandas as pd
 import urllib.parse
-import qrcode
+
 import io
 from datetime import date
 from translations import TRANSLATIONS
